@@ -23,7 +23,7 @@
  */
 
 $string['creatingtoken'] = 'Preparando token para iniciar sessão como...';
-$string['error_incognitoproglem'] = 'Erro ao iniciar a sessão de "Iniciar sessão como", certifique-se de que todas as janelas anônimas estão fechadas e tente novamente.';
+$string['error_incognitoproblem'] = 'Erro ao iniciar a sessão de "Iniciar sessão como", certifique-se de que todas as janelas anônimas estão fechadas e tente novamente.';
 $string['error_invalidrequest'] = 'Solicitação de "Iniciar sessão como" inválida detectada.';
 $string['error_linkexpired'] = 'O link de "Iniciar sessão como" expirou, tente novamente se necessário.';
 $string['error_notincognito'] = 'O link de "Iniciar sessão como" não foi aberto em uma nova janela anônima.';
